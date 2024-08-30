@@ -1,33 +1,22 @@
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  Empresa  de Desenvolvimento de Software  :construction:
 </h4>
 
-# Resumo do Projeto
-Este é um projeto de finanças pessoais, com foco em administração pessoal que está sendo desenvolvido durante uma mentoria de C#, seu backend está escrito em netCore 6.0 com frontend em Angular.
+# Resumo 
+Somos uma empresa focada no desenvolvimento de softwares Web, mobile e desktop personalizados.
 
 # Tecnologias e Padrões
 
-- ``.NET Core 6.0`` 
+- ``.NET Core`` 
 - ``Arquitetura em Multiplas Camadas`` 
 - ``Padrão Repository`` 
-- ``EF Core 6``
+- ``EF Core``
 - ``Docker``
 - ``PostGres``
+- ``MySQL``
 - ``Angular``
 
-# Variaveis de Ambiente
-- ``connection_string``
-
 # Ambiente
-- ``Docker Desktop`` 
-- ``WSL 2``  
-    https://learn.microsoft.com/en-us/windows/wsl/install
-- ``Visual Studio 2022 ou VS Code``
-
-# Executar Projeto
-Use está linha de comando para executar o docker-compose
-
-``` bash
-  docker-compose up -d
-```
+- ``Windows`` 
+- ``Linux``  
